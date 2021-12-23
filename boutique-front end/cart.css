@@ -1,0 +1,19 @@
+.logo{
+    background-color: rgb(248, 160, 129);
+}
+.logo img{
+    margin-left: 20px;
+    margin-top: 3px;
+    height: 125px;
+    width: 175px;
+}
+.heading{
+    text-align: center;
+    margin-top: -140px;
+    color: black;
+}
+.content{
+    background-color:rgb(252, 212, 198);
+    height: 500px;
+    margin-top: -20px;
+}

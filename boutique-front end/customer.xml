@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="customer.xsl" type="text/xsl"?>
+<customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="customer.xsd">
+    <cus1>
+        <customer_id>1</customer_id>
+        <name>kavya</name>
+        <address>27,TVS nagar,Madurai</address>
+    </cus1>
+    <cus2>
+        <customer_id>2</customer_id>
+        <name>Shanthosh</name>
+        <address>07,SS nagar,Madurai</address>
+    </cus2>
+    <cus3>
+        <customer_id>3</customer_id>
+        <name>Avanthika</name>
+        <address>2,VKA nagar,Chidambaram</address>
+    </cus3>
+    <cus4>
+        <customer_id>4</customer_id>
+        <name>Harish</name>
+        <address>44,TVS nagar,Madurai</address>
+    </cus4>
+    <cus5>
+        <customer_id>5</customer_id>
+        <name>Bhumika</name>
+        <address>27,KK nagar,Trichy</address>
+    </cus5>
+    <cus6>
+        <customer_id>6</customer_id>
+        <name>Nithiya</name>
+        <address>27,AA nagar,Erode</address>
+    </cus6>
+    <cus7>
+        <customer_id>7</customer_id>
+        <name>Ram</name>
+        <address>12,West car street,Karaikal</address>
+    </cus7>
+    <cus8>
+        <customer_id>8</customer_id>
+        <name>kirthika</name>
+        <address>27,Shanthi nagar,Chidambaram</address>
+    </cus8>
+    <cus9>
+        <customer_id>9</customer_id>
+        <name>Madhu</name>
+        <address>3,TVS nagar,Madurai</address>
+    </cus9>
+    <cus10>
+        <customer_id>10</customer_id>
+        <name>kavyasri</name>
+        <address>27,KL nagar,Madurai</address>
+    </cus10>    
+</customer>

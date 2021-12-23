@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="customer">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="cus1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus2">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus3">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus4">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus5">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus6">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus7">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus8">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus9">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cus10">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="customer_id" />
+                            <xs:element name="name" />
+                            <xs:element name="address"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType> 
+    </xs:element>
+</xs:schema>

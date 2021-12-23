@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="review">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="tb">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb2">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb3">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb4">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb5">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb6">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb7">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb8">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb9">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="tb10">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="product_id" />
+                            <xs:element name="product_name" />
+                            <xs:element name="price" />
+                            <xs:element name="stock" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

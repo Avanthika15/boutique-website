@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="product.xsl" type="text/xsl"?>
+<review xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="product.xsd">
+    <tb>
+        <product_id>1</product_id>
+        <product_name>Kurta</product_name>
+        <price>300</price>
+        <stock>3</stock>
+    </tb>
+    <tb1>   
+        <product_id>2</product_id>
+        <product_name>chudhi</product_name>
+        <price>400</price>
+        <stock>2</stock>
+    </tb1> 
+    <tb2>   
+        <product_id>3</product_id>
+        <product_name>tshirt modelET23</product_name>
+        <price>180</price>
+        <stock>12</stock>
+    </tb2>
+    <tb3>   
+        <product_id>4</product_id>
+        <product_name>plain tshirt</product_name>
+        <price>100</price>
+        <stock>15</stock>
+    </tb3>    
+    <tb4>   
+        <product_id>5</product_id>
+        <product_name>jeans</product_name>
+        <price>1000</price>
+        <stock>10</stock>
+    </tb4> 
+    <tb5>   
+        <product_id>6</product_id>
+        <product_name>frock</product_name>
+        <price>500</price>
+        <stock>7</stock>
+    </tb5>
+    <tb6>   
+        <product_id>7</product_id>
+        <product_name>off the shoulder</product_name>
+        <price>350</price>
+        <stock>4</stock>
+    </tb6>
+    <tb7>   
+        <product_id>8</product_id>
+        <product_name>bodycon dress</product_name>
+        <price>600</price>
+        <stock>5</stock>
+    </tb7>
+    <tb8>   
+        <product_id>9</product_id>
+        <product_name>wrap dress</product_name>
+        <price>500</price>
+        <stock>2</stock>
+    </tb8>
+    <tb9>   
+        <product_id>10</product_id>
+        <product_name>peplum dress</product_name>
+        <price>500</price>
+        <stock>0</stock>
+    </tb9>
+    <tb10>   
+        <product_id>11</product_id>
+        <product_name>sweater</product_name>
+        <price>780</price>
+        <stock>14</stock>
+    </tb10> 
+</review>
